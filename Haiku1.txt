@@ -1,0 +1,4 @@
+[ 'pink', 'white', 'gray', 'sky', 'dawns', 'sad', 'cool', 'mirth' ]
+[ 'drifting', 'purple', 'mountains', 'skyline', 'happy', 'content' ]
+[ 'sunrises', 'evenings', 'juniper', 'contentment' ]
+5
